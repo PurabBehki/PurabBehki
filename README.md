@@ -30,7 +30,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=purabbehki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
